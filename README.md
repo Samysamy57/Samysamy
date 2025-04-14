@@ -1,4 +1,4 @@
-![](https://github.com/HOTHEAD01TH/HOTHEAD01TH/blob/main/header.png)
+![](https://github.com/Samysamy57/Samysamy57/blob/main/header.png)
 <!-- Typing SVG -->
 ###
   <a href="https://git.io/typing-svg">
@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOTHEAD01TH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=HOTHEAD01TH&theme=elegant&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samysamy57&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Samysamy57&theme=elegant&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 ### Tech Stack
@@ -116,21 +116,21 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HOTHEAD01TH/HOTHEAD01TH/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Samysamy57/Samysamy57/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://x.com/HOTHEAD01TH" target="_blank">
+  <a href="https://x.com/Samysamy57" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/hothead01th/" target="_blank">
+  <a href="https://www.linkedin.com/in/samy-babouri/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hothead01th@gmail.com" target="_blank">
+  <a href="mailto:samybabouri1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://instagram.com/hothead01th" target="_blank">
+  <a href="https://instagram.com/samy57samy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://hothead.vercel.app" target="_blank">
